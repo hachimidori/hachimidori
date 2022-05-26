@@ -6,7 +6,7 @@
 <p align="center">
 
 - 🔖 My name is Ikbal Maulana
-- 📞 But I'm Often Called Netrythical
+- 📞 But I'm Often Called Hachimidori
 - 🗒️ I'm 15 Years Old (For Now)
 - 🎂 My Birthday Is February 8th
 
