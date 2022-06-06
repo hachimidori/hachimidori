@@ -4,7 +4,7 @@
 
 <p align="center">
 
-- 🔖 My name is Ikbal Maulana
+- 🔖 My name is Muhamad Ikbal Maulana
 - 📞 But I'm Often Called Hachimidori
 - 🗒️ I'm 15 Years Old (For Now)
 - 🎂 My Birthday Is February 8th
@@ -12,7 +12,7 @@
 </p>
 
 ------
-### Connect With Me ☎️
+### Find me on 🔍
 <p align="center">
   <a href="https://instagram.com/hachimidori_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
   <a href="https://wa.me/6283838039693?"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
@@ -28,23 +28,23 @@
 
 ### Github Stats 🚀
 
-<p align="center"><a href="https://github.com/Netrythical"><img src="https://github-readme-stats.vercel.app/api?username=Netrythical&show_icons=true&theme=radical"></a></p>
-<p align="center"><a href="https://github.com/Netrythical"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Netrythical&theme=radical&layout=compact"></a></p> 
+<p align="center"><a href="https://github.com/hachimidori"><img src="https://github-readme-stats.vercel.app/api?username=hachimidori&show_icons=true&theme=radical"></a></p>
+<p align="center"><a href="https://github.com/hachimidori"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hachimidori&theme=radical&layout=compact"></a></p> 
 
 ### Repo Stats 🔭
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=Netrythical&repo=Netrythical&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=hachimidori&repo=hachimidori&theme=dark)
 
 
 <details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=Netrythical)
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=hachimidori)
 
 </details>
 
 <details>
     <summary>&#127942 <b>GitHub Activity</b></summary><br/>
 
-![Metrics](https://metrics.lecoq.io/Netrythical?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FJakarta)
+![Metrics](https://metrics.lecoq.io/hachimidori?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FJakarta)
 
 </details> 
